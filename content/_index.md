@@ -58,7 +58,11 @@ Noida International University · 2022–2025
 
 * [GitHub](https://github.com/ShivKumar033)
 * [LinkedIn](https://www.linkedin.com/in/shivkumar99228/)
+* [Twitter](https://x.com/Shivkumar_033)
+* [Medium - blog](https://medium.com/@y_shivkumar)
 
 I'm always learning, building, testing, and looking for better ways to make software more secure.
 
-**Always learning. Always testing. Building security by design.**
+**Always learning. 
+Always testing. 
+Building security by design.**
