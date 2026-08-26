@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://shivkumar033.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://shivkumar033.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://shivkumar033.github.io/blog/fireflow-htb-rce-writeup/</loc>
+        <lastmod>2026-08-23</lastmod>
+    </url>
+    <url>
+        <loc>https://shivkumar033.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://shivkumar033.github.io/blog/race-condition-that-created-an-undeletable-group-member/</loc>
+        <lastmod>2026-08-27</lastmod>
+    </url>
+    <url>
+        <loc>https://shivkumar033.github.io/blog/web-application-testing-approach/</loc>
+        <lastmod>2026-08-26</lastmod>
+    </url>
+    <url>
+        <loc>https://shivkumar033.github.io/tags/</loc>
+    </url>
+</urlset>

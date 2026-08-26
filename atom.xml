@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Shivkumar</title>
+    <subtitle>Opinionated, modern, pretty, and clean Zola theme.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://shivkumar033.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://shivkumar033.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-08-27T00:00:00+00:00</updated>
+    <id>https://shivkumar033.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Race Condition That Create an Undeletable Group Member</title>
+        <published>2026-08-27T00:00:00+00:00</published>
+        <updated>2026-08-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Duck Quack
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://shivkumar033.github.io/blog/race-condition-that-created-an-undeletable-group-member/"/>
+        <id>https://shivkumar033.github.io/blog/race-condition-that-created-an-undeletable-group-member/</id>
+        
+        <content type="html" xml:base="https://shivkumar033.github.io/blog/race-condition-that-created-an-undeletable-group-member/">&lt;p&gt;Race Condition &#x2F; TOCTOU: Discovered a concurrency flaw in group-member management where simultaneous state-changing requests could leave a group member in an inconsistent state, making the member undeletable through normal functionality.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@y_shivkumar&#x2F;race-condition-that-created-an-undeletable-group-member-2e9483541fbf&quot;&gt;Read the full write-up on Medium →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How I Approach Web Application Penetration Testing: Beyond the Scanner</title>
+        <published>2026-08-26T00:00:00+00:00</published>
+        <updated>2026-08-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Duck Quack
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://shivkumar033.github.io/blog/web-application-testing-approach/"/>
+        <id>https://shivkumar033.github.io/blog/web-application-testing-approach/</id>
+        
+        <content type="html" xml:base="https://shivkumar033.github.io/blog/web-application-testing-approach/">&lt;p&gt;A practical guide to my approach to web application penetration testing—from understanding the application and mapping its attack surface to testing authentication, authorization, APIs, business logic, and vulnerability chains. The blog focuses on using automated tools for coverage while relying on manual analysis and attacker-focused thinking to identify weaknesses that scanners can miss, validate their real-world impact, and produce clear, actionable security reports.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@y_shivkumar&#x2F;how-i-approach-web-application-penetration-testing-beyond-the-scanner-c4c221b5baa3&quot;&gt;Read the full write-up on Medium →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hack The Box — Langflow RCE Write-up</title>
+        <published>2026-08-23T00:00:00+00:00</published>
+        <updated>2026-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Duck Quack
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://shivkumar033.github.io/blog/fireflow-htb-rce-writeup/"/>
+        <id>https://shivkumar033.github.io/blog/fireflow-htb-rce-writeup/</id>
+        
+        <content type="html" xml:base="https://shivkumar033.github.io/blog/fireflow-htb-rce-writeup/">&lt;p&gt;A technical Hack The Box write-up covering Langflow vulnerability analysis, Remote Code Execution (RCE) exploitation, enumeration, and the complete attack path from initial access to system compromise.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@y_shivkumar&#x2F;hack-the-box-langflow-rce-write-up-d1b44e381498&quot;&gt;Read the full write-up on Medium →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
